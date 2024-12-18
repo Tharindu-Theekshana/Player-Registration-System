@@ -1,0 +1,24 @@
+
+Register Number      - 0
+Player Name          -   
+Player Date Of Birth - 0-0-0
+Player Runs Scored   - 0
+Player Teams Are     -  
+
+Register Number      - 0
+Player Name          -  
+Player Date Of Birth - 0-0-0
+Player Runs Scored   - 0
+Player Teams Are     - 
+
+Register Number      - 1
+Player Name          - Tharindu Theekshana
+Player Date Of Birth - 2004-5-27
+Player Runs Scored   - 1000
+Player Teams Are     - colombo and kandy
+
+Register Number      - 2
+Player Name          - harry potter mallika
+Player Date Of Birth - 2000-8-12
+Player Runs Scored   - 10000
+Player Teams Are     - dambulla and jaffna

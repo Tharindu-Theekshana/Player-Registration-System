@@ -1,0 +1,14 @@
+﻿'AssignmentProject.exe' (Win32): Loaded 'C:\Users\Tharidu\Desktop\c++\AssignmentProject\x64\Debug\AssignmentProject.exe'. Symbols loaded.
+'AssignmentProject.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'AssignmentProject.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
+'AssignmentProject.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'AssignmentProject.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140d.dll'. 
+'AssignmentProject.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. 
+'AssignmentProject.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140_1d.dll'. 
+'AssignmentProject.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. 
+The thread 16020 has exited with code 0 (0x0).
+'AssignmentProject.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. 
+'AssignmentProject.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. 
+The thread 780 has exited with code 0 (0x0).
+The thread 2272 has exited with code 0 (0x0).
+The program '[6216] AssignmentProject.exe' has exited with code 0 (0x0).
